@@ -105,3 +105,7 @@
 | 一式 | uk [oʔ]  | iuk [ioʔ]  |
 | 二式 | ooh      | iooh       |
 |      | 屋木     | 郁菊       |
+
+- `ch+iu` 作 `chiu`，不作 `chu`；`chien` 作 `chien`, 不作 `chen`
+- `ch+ui` 簡寫作 `chu`
+- `u`, `o` 也可按英文習慣作 `oo`, `ee`
