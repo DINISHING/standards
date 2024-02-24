@@ -42,7 +42,7 @@
 | 二式 | z        |            |
 |      | 子四     | 衣意       |
 | 一式 | u [u]    | iu [y]     |
-| 韻母 |          | (i)ui      |
+| 二式 |          | (i)ui      |
 |      | 烏湖     | 居貴爲     |
 |      | a [a]    | ia [ia]    |
 |      | 挨揩     | 寫夜       |
@@ -59,53 +59,46 @@
 | 二式 | eo       | iu         |
 |      | 樓瘦     | 留有       |
 | 一式 | ae [ɛ]   | iae [iɛ]   |
-| 二式 | an       | =ien       |
+| 二式 | an       | ian        |
 |      | 慢藍     | 煙現       |
-| 一式 | ah [ɛʔ]  | iah [iɛʔ]  |
-| 二式 | ah       | iah        |
+|      | ah [ɛʔ]  | iah [iɛʔ]  |
 |      | 鴨八襪   | 屑捏       |
 | 一式 | oe [ø]   | ioe [iø]   |
-| 二式 | oen      | ioen       |
+| 二式 | on       | ion        |
 |      | 按算     | 怨軟       |
-| 一式 | oh [oʔ]  | ioh [ioʔ]  |
-| 二式 | oeh      | ioeh       |
+|      | oh [øʔ]  | ioh [iøʔ]  |
 |      | 末割     | 越雪       |
 | 一式 | e [e]    | ie [ie]    |
 | 二式 | en       | ien        |
 |      | 嵐感     | 連演       |
-| 一式 | en [əŋ]  | in [iŋ]    |
-| 二式 | =eng     | =ing       |
-|      | 恩論     | 音林       |
-|      | iun [yŋ] |            |
-|      | (i)uing  |            |
-|      | 雲均     |            |
-|      | eh [əʔ]  | ih [iʔ]    |
-|      | 垃物     | 列乙       |
-| 一式 | iuh [yʔ] |            |
+|      | eh [eʔ]  | ieh [ieʔ]  |
+|      | 垃圾     | 傑劫       |
+| 一式 | iun [yŋ] | in [iŋ]    |
+| 二式 | (i)uin   |            |
+|      | 雲均     | 音林       |
+| 一式 | iuh [yʔ] | ih [iʔ]    |
 | 二式 | (i)uih   |            |
-|      | 橘域     |            |
+|      | 橘域     | 一七       |
 |      | ang [ã]  | iang [iã]  |
 |      | 打猛     | 央想       |
-| 一式 | ak [aʔ]  | iak [iaʔ]  |
-| 二式 | ah       | iah        |
+|      | ak [aʔ]  | iak [iaʔ]  |
 |      | 麥百     | 腳削       |
 |      | ong [ɔ̃]  | iong [iɔ̃]  |
 |      | 當網     | 旺         |
-| 一式 | ok [ɔʔ]  | iok [iɔʔ]  |
-| 二式 | oh       | ioh        |
+|      | ok [ɔʔ]  | iok [iɔʔ]  |
 |      | 握覺     | 攫         |
-|      | eng [ʌŋ] | ing [iʌŋ]  |
-|      | 等肯     | 應性       |
-| 一式 | ek [ʌʔ]  | ik [iʌʔ]   |
-| 二式 | =eh      | =ih        |
+|      | eng [əŋ] | ing [iəŋ]  |
+|      | 恩等肯   | 應性       |
+|      | ek [əʔ]  | ik [iəʔ]   |
 |      | 塞得     | 益覓       |
-| 一式 | ung [oŋ] | iung [ioŋ] |
-| 二式 | oong     | ioong      |
+|      | ung [oŋ] | iung [ioŋ] |
 |      | 翁東     | 用中       |
-| 一式 | uk [oʔ]  | iuk [ioʔ]  |
-| 二式 | ooh      | iooh       |
+|      | uk [oʔ]  | iuk [ioʔ]  |
 |      | 屋木     | 郁菊       |
 
-- `ch+iu` 作 `chiu`，不作 `chu`；`chien` 作 `chien`, 不作 `chen`
-- `ch+ui` 簡寫作 `chu`
-- `u`, `o` 也可按英文習慣作 `oo`, `ee`
+- `chien`, `kyien` 不作 `chen`, `kyen`
+- `ch+ui` 可簡寫作 `chu`
+- `uin` 也有拼法 `un`
+- `aen` `on` 也有拼法 `an` `on`
+- `u`, `i` 也有按英文習慣作 `oo`, `ee`
+- `z` 也有拼法 `e`
